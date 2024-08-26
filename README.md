@@ -1,3 +1,7 @@
+#EXTM3U
+#EXTINF:-1 ,group-title="Powered By Masum" tvg-logo="https://i.postimg.cc/6prmpnW2/replicate-prediction-x5ju2in6vjdtjjh4wso734j7xa.jpg",MASUM PLAY LIST ⤵️
+https://imgur.com/Xb5aJF.mp4
+
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4mniOoLMBh-IP5a66G91btd-NmI3yAlsLks2q1n6qX1AnN0Ys8UoVEo&s=10" group-title="JagoBD",Discover Pakistan TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
